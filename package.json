@@ -1,0 +1,22 @@
+{
+  "name": "tsc-50",
+  "version": "1.0.0",
+  "description": "learn typescript in 50 lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacklmbrt07/tsc-50.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Jack Lambert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacklmbrt07/tsc-50/issues"
+  },
+  "homepage": "https://github.com/jacklmbrt07/tsc-50#readme"
+}
